@@ -75,7 +75,7 @@ ul {
   transition: all 0.3s;
 }
 .header__content-navbar li:last-child {
-  border: 1px solid #2232c5;
+  border: 1px solid #4a6456;
   border-radius: 10px;
   padding: 10px;
   margin-right: 0;
